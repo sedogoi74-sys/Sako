@@ -1,0 +1,6 @@
+{
+  "name": "La Tortue Sage du Rivage",
+  "description": "Au bord de la plage sous la nuit étoilée, dialoguez avec la tortue millénaire et recevez ses paroles de sagesse, bercé par le ressac des vagues bioluminescentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
